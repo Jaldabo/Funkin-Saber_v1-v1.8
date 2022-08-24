@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "8",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"LUDICROUS+",
+			"ludicrous+",
+			[
+				175,
+				155,
+				255
+			]
+		],
+		[
+			"It Takes Me",
+			"takesme",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Spin Eternally",
+			"spineternally",
+			[
+				26,
+				213,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

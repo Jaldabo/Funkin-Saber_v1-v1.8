@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "12",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"1.78",
+			"1.78",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Curtains",
+			"curtains",
+			[
+				26,
+				195,
+				115
+			]
+		],
+		[
+			"Firestarter",
+			"firestarter",
+			[
+				66,
+				153,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

@@ -1,0 +1,198 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "triangle",
+		"player1": "saberbf",
+		"player2": "micbf",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2196.9696969697,
+				[
+					[
+						"micbf vanish",
+						"dad",
+						"saberbf"
+					]
+				]
+			],
+			[
+				4696.9696969697,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8181.81818181818,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9469.69696969697,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20151.5151515151,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				20303.0303030303,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				20833.3333333333,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41136.3636363637,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54772.7272727273,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60303.0303030304,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				74090.9090909092,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93181.8181818184,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				99393.9393939396,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				101742.424242424,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104090.909090909,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115757.575757576,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"characterTrails": null,
+		"validScore": false,
+		"bfTrails": null,
+		"gfVersion": "transparent",
+		"bpm": 198,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"swapStrumLines": null,
+		"cameraMoveOnNotes": null,
+		"song": "Unlimited Power",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

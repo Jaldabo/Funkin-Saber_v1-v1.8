@@ -1,0 +1,159 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "billie",
+		"player1": "saberbf",
+		"player2": "transparent",
+		"player3": null,
+		"events": [
+			[
+				3245.19230769231,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				11610.5769230769,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				12331.7307692308,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				20841.3461538462,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				21706.7307692308,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				39302.8846153846,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				43341.3461538462,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				43918.2692307692,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				45288.4615384615,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				46274.6394230769,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				48461.5384615385,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66778.8461538461,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95625,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				122307.692307692,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "none",
+		"validScore": false,
+		"gfVersion": "transparent",
+		"bpm": 104,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Magic"
+	}
+}

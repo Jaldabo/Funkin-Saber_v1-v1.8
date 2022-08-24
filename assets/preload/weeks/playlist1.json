@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"100 Bills",
+			"bills",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Balearic Pumping",
+			"balearic",
+			[
+				55,
+				173,
+				255
+			]
+		],
+		[
+			"Beat Saber",
+			"beatsaber",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

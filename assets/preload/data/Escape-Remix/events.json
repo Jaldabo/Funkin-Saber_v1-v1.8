@@ -1,0 +1,128 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "electronic mixtape",
+		"player1": "saberbf",
+		"player2": "micbf",
+		"player3": null,
+		"healthdrain": 0,
+		"events": [
+			[
+				13500,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39281.25,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80531.25,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				91406.25,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93187.5,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				117281.25,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				151312.5,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153562.5,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163968.75,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				177281.25,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": false,
+		"validScore": false,
+		"bfTrails": false,
+		"gfVersion": "transparent",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"healthdrainKill": false,
+		"swapStrumLines": false,
+		"cameraMoveOnNotes": false,
+		"song": "Escape Remix",
+		"songInstVolume": 1,
+		"disableAntiMash": false,
+		"disableDebugButtons": false
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "14",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cycle Hit",
+			"cyclehit",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"WHAT THE CAT",
+			"tf40k",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Light It Up",
+			"crystallized",
+			[
+				100,
+				180,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

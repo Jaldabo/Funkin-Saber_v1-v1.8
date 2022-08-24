@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bombnote.png"><SubTexture name="bombnote blue00000000" x="0" y="0" width="3838" height="3584" frameX="0" frameY="0" frameWidth="3838" frameHeight="3584" />
+<SubTexture name="bombnote green00000000" x="0" y="0" width="3838" height="3584" frameX="0" frameY="0" frameWidth="3838" frameHeight="3584" />
+<SubTexture name="bombnote red00000000" x="0" y="0" width="3838" height="3584" frameX="0" frameY="0" frameWidth="3838" frameHeight="3584" />
+<SubTexture name="bombnote purple00000000" x="0" y="0" width="3838" height="3584" frameX="0" frameY="0" frameWidth="3838" frameHeight="3584" />
+<SubTexture name="bombnote blue hold piece00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote blue hold end00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote green hold end00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote green hold piece00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote pruple end hold00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote purple hold piece00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote red hold end00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+<SubTexture name="bombnote red hold piece00000000" x="0" y="3584" width="50" height="64" frameX="0" frameY="0" frameWidth="50" frameHeight="64" />
+</TextureAtlas>

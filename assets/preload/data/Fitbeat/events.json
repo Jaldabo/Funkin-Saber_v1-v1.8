@@ -1,0 +1,153 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "fitbeat",
+		"player1": "saberbf",
+		"player2": "micbf",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				9910.02335736773,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				11026.3024271352,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				20514.6745201584,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				22747.2326596933,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				31119.3256829491,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				31956.5349852747,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				40607.6977759724,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				67398.395450391,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70189.0931248096,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80235.6047527165,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					],
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81351.883822484,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				98096.0698689955,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": false,
+		"validScore": false,
+		"bfTrails": null,
+		"gfVersion": "transparent",
+		"bpm": 215,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"swapStrumLines": false,
+		"cameraMoveOnNotes": false,
+		"song": "Fitbeat",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": false
+	}
+}

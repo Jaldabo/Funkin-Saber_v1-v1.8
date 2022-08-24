@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "15",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Crystallized",
+			"crystallized",
+			[
+				100,
+				180,
+				255
+			]
+		],
+		[
+			"Atomosphere",
+			"planetshaper",
+			[
+				26,
+				255,
+				133
+			]
+		],
+		[
+			"GHOST",
+			"cyphisonia",
+			[
+				215,
+				213,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

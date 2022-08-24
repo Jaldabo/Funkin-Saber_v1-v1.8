@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Breezer",
+			"breezer",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Escape",
+			"commercial",
+			[
+				226,
+				113,
+				253
+			]
+		],
+		[
+			"Country Rounds",
+			"countryrounds",
+			[
+				255,
+				133,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

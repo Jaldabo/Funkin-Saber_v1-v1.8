@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "3",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Be There For You",
+			"btfu",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"Rum n Bass",
+			"rumnbass",
+			[
+				155,
+				80,
+				0
+			]
+		],
+		[
+			"Unlimited Power",
+			"unlimitedpower",
+			[
+				246,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

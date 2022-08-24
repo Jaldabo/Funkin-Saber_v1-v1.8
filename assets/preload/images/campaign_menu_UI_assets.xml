@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="campaign_menu_UI_assets.png"><SubTexture name="campaign_menu_UI_assets lock0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="campaign_menu_UI_assets arrow left0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="campaign_menu_UI_assets arrow push left0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="campaign_menu_UI_assets arrow push right0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+<SubTexture name="campaign_menu_UI_assets arrow right0000" x="0" y="0" width="10" height="10" frameX="0" frameY="0" frameWidth="10" frameHeight="10" />
+</TextureAtlas>
