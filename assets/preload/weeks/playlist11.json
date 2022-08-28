@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "11",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Angel Voices",
+			"angelvoices",
+			[
+				146,
+				153,
+				253
+			]
+		],
+		[
+			"Escape Remix",
+			"escaperemix",
+			[
+				255,
+				33,
+				155
+			]
+		],
+		[
+			"100 Bills Remix",
+			"billsremix",
+			[
+				126,
+				113,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Playlist 11"
+}

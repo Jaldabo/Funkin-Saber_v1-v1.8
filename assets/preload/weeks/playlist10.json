@@ -2,49 +2,49 @@
 	"storyName": "",
 	"difficulties": "Expert, Expert+",
 	"hideFreeplay": false,
-	"weekBackground": "15",
-	"weekBefore": "tutorial",
+	"weekBackground": "10",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"songs": [
-		[
-			"Crystallized",
-			"crystallized",
-			[
-				100,
-				180,
-				255
-			]
-		],
-		[
-			"Atomosphere",
-			"planetshaper",
-			[
-				26,
-				255,
-				133
-			]
-		],
-		[
-			"GHOST",
-			"cyphisonia",
-			[
-				215,
-				213,
-				153
-			]
-		]
-	],
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"songs": [
+		[
+			"Crab Rave",
+			"crabrave",
+			[
+				0,
+				255,
+				140
+			]
+		],
+		[
+			"POP STARS",
+			"popstars",
+			[
+				226,
+				53,
+				255
+			]
+		],
+		[
+			"One Hope",
+			"onehope",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Playlist 10",
+	"hiddenUntilUnlocked": false
 }

@@ -2,49 +2,49 @@
 	"storyName": "",
 	"difficulties": "Expert, Expert+",
 	"hideFreeplay": false,
-	"weekBackground": "11",
-	"weekBefore": "tutorial",
+	"weekBackground": "6",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"songs": [
-		[
-			"Fitbeat",
-			"fitbeat",
-			[
-				195,
-				133,
-				213
-			]
-		],
-		[
-			"Escape Remix",
-			"escaperemix",
-			[
-				206,
-				33,
-				133
-			]
-		],
-		[
-			"100 Bills Remix",
-			"billsremix",
-			[
-				86,
-				73,
-				255
-			]
-		]
-	],
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"songs": [
+		[
+			"Origins",
+			"origins",
+			[
+				115,
+				133,
+				213
+			]
+		],
+		[
+			"Reason for Living",
+			"reason",
+			[
+				166,
+				113,
+				253
+			]
+		],
+		[
+			"Give a Little Love",
+			"gall",
+			[
+				146,
+				213,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Playlist 6",
+	"hiddenUntilUnlocked": false
 }

@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "13",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Magic",
+			"magic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"I Wanna Be A Machine",
+			"machine",
+			[
+				255,
+				93,
+				0
+			]
+		],
+		[
+			"Final-Boss-Chan",
+			"finalbosschan",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Playlist 13"
+}

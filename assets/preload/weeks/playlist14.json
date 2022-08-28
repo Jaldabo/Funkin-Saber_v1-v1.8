@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "14",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"WHAT THE CAT",
+			"tf40k",
+			[
+				255,
+				120,
+				120
+			]
+		],
+		[
+			"Cycle Hit",
+			"cyclehit",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"Atomosphere",
+			"planetshaper",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Playlist 14"
+}

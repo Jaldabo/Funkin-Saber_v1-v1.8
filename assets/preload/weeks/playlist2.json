@@ -3,14 +3,18 @@
 	"difficulties": "Expert, Expert+",
 	"hideFreeplay": false,
 	"weekBackground": "2",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
 			"Breezer",
@@ -22,7 +26,7 @@
 			]
 		],
 		[
-			"Escape",
+			"Commercial Pumping",
 			"commercial",
 			[
 				226,
@@ -40,11 +44,7 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"hideStoryMode": false,
+	"weekName": "Playlist 2",
+	"hiddenUntilUnlocked": false
 }

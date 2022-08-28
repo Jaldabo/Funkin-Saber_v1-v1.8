@@ -1,0 +1,183 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "the first",
+		"player1": "saberbf",
+		"player2": "micbf",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"4"
+					]
+				]
+			],
+			[
+				10200,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10285.7142857143,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				35314.2857142857,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					],
+					[
+						"LinearSpin",
+						".2",
+						"360"
+					]
+				]
+			],
+			[
+				35657.1428571429,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				79028.5714285714,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					],
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82971.4285714285,
+				[
+					[
+						"Set Cam Zoom",
+						".8",
+						".5"
+					]
+				]
+			],
+			[
+				83657.1428571428,
+				[
+					[
+						"Set Cam Zoom",
+						".5",
+						".5"
+					]
+				]
+			],
+			[
+				101485.714285714,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					],
+					[
+						"Cam Boom Speed",
+						"2",
+						"3"
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"micbf appear",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123428.571428571,
+				[
+					[
+						"Cam Boom Speed",
+						"4",
+						"2"
+					]
+				]
+			],
+			[
+				145371.428571428,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				156857.142857143,
+				[
+					[
+						"micbf vanish",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"bfTrails": null,
+		"gfVersion": "transparent",
+		"bpm": 175,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"swapStrumLines": null,
+		"cameraMoveOnNotes": null,
+		"song": "Escape",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

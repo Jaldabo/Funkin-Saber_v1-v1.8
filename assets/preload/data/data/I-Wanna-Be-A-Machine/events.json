@@ -1,0 +1,131 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "origins",
+		"player1": "saberbf",
+		"player2": "transparent",
+		"player3": null,
+		"events": [
+			[
+				3720.703125,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				33735.3515625,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"3"
+					]
+				]
+			],
+			[
+				48740.234375,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				76875,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				104970.703125,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			],
+			[
+				106875,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"2"
+					]
+				]
+			],
+			[
+				107080.078125,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf"
+					]
+				]
+			],
+			[
+				136875,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"2"
+					]
+				]
+			],
+			[
+				166875,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"2"
+					]
+				],
+				null,
+				"Bomb Note"
+			],
+			[
+				168410.714285714,
+				[
+					[
+						"Change Character",
+						"BF",
+						"saberbf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "transparent",
+		"bpm": 128,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "I Wanna Be A Machine"
+	}
+}

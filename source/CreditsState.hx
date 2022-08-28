@@ -56,7 +56,7 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Funkin Saber Team'],
 			['Jaldabo', 'jaldabo', 'Coder, Charter, Animator ', 'https://gamebanana.com/members/1961867', 'eb5d21'],
-			['Tenebrsyte', 'tenebrsyte', 'Charter ', 'https://gamebanana.com/members/1971133', 'f200ff'],
+			['Tenebryste', 'tenebryste', 'Charter ', 'https://gamebanana.com/members/1971133', 'f200ff'],
 			['FastZombie', 'fastzombie', 'Lua Scripter and Charter', 'https://gamebanana.com/members/2032934', '50a34d'],
 			['RedNinja', 'redninja', 'Charter', 'https://gamebanana.com/members/2046683', 'cf3e21'],
 			['Saltyboii', 'saltyboii', 'Lua Scripter and Charter', 'https://gamebanana.com/members/1948626', 'c7ae34'],

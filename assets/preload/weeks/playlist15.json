@@ -1,0 +1,50 @@
+{
+	"storyName": "",
+	"difficulties": "Expert, Expert+",
+	"hideFreeplay": false,
+	"weekBackground": "15",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Crystallized",
+			"crystallized",
+			[
+				100,
+				160,
+				255
+			]
+		],
+		[
+			"Light it up",
+			"crystallized",
+			[
+				100,
+				160,
+				255
+			]
+		],
+		[
+			"GHOST",
+			"cyphisonia",
+			[
+				255,
+				235,
+				195
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Playlist 15"
+}

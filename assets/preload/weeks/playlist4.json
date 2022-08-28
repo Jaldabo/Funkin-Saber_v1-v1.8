@@ -8,7 +8,7 @@
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
+	"weekBefore": "",
 	"startUnlocked": true,
 	"weekCharacters": [
 		"",
@@ -17,34 +17,34 @@
 	],
 	"songs": [
 		[
+			"Turn Me On",
+			"turnmeon",
+			[
+				255,
+				0,
+				95
+			]
+		],
+		[
+			"Be There For You",
+			"btfu",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
 			"Elixia",
 			"elixia",
 			[
-				75,
-				155,
-				255
-			]
-		],
-		[
-			"I Need You",
-			"ineedyou",
-			[
-				195,
-				113,
-				255
-			]
-		],
-		[
-			"Into the Dream",
-			"intothedream",
-			[
-				166,
-				73,
+				0,
+				140,
 				255
 			]
 		]
 	],
 	"hideStoryMode": false,
-	"weekName": "",
+	"weekName": "Playlist 4",
 	"hiddenUntilUnlocked": false
 }

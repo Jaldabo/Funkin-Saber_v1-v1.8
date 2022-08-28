@@ -2,19 +2,23 @@
 	"storyName": "",
 	"difficulties": "Expert, Expert+",
 	"hideFreeplay": false,
-	"weekBackground": "12",
-	"weekBefore": "tutorial",
+	"weekBackground": "7",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"1.78",
-			"1.78",
+			"Full Charge",
+			"fullcharge",
 			[
 				255,
 				255,
@@ -22,29 +26,25 @@
 			]
 		],
 		[
-			"Curtains",
-			"curtains",
+			"Immortal",
+			"immortal",
 			[
-				26,
-				195,
-				115
+				255,
+				113,
+				53
 			]
 		],
 		[
-			"Firestarter",
-			"firestarter",
+			"Burning Sands",
+			"burningsands",
 			[
-				66,
-				153,
-				255
+				235,
+				255,
+				93
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"hideStoryMode": false,
+	"weekName": "Playlist 7",
+	"hiddenUntilUnlocked": false
 }

@@ -2,19 +2,23 @@
 	"storyName": "",
 	"difficulties": "Expert, Expert+",
 	"hideFreeplay": false,
-	"weekBackground": "13",
-	"weekBefore": "tutorial",
+	"weekBackground": "8",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
 	"songs": [
 		[
-			"Magic",
-			"magic",
+			"Into The Dream",
+			"intothedream",
 			[
 				95,
 				113,
@@ -22,29 +26,25 @@
 			]
 		],
 		[
-			"I Wanna Be A Machine",
-			"machine",
+			"It Takes Me",
+			"takesme",
 			[
 				255,
-				173,
-				75
+				255,
+				255
 			]
 		],
 		[
-			"Final-Boss-Chan",
-			"finalbosschan",
+			"Spin Eternally",
+			"spineternally",
 			[
-				255,
 				0,
-				0
+				255,
+				73
 			]
 		]
 	],
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": ""
+	"hideStoryMode": false,
+	"weekName": "Playlist 8",
+	"hiddenUntilUnlocked": false
 }
