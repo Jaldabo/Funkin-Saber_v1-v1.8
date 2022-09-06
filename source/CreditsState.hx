@@ -60,7 +60,6 @@ class CreditsState extends MusicBeatState
 			['FastZombie', 'fastzombie', 'Lua Scripter and Charter', 'https://gamebanana.com/members/2032934', '50a34d'],
 			['RedNinja', 'redninja', 'Charter', 'https://gamebanana.com/members/2046683', 'cf3e21'],
 			['Saltyboii', 'saltyboii', 'Lua Scripter and Charter', 'https://gamebanana.com/members/1948626', 'c7ae34'],
-			['HelloHumanz', 'hellohumanz', 'Primary Artist', 'https://gamebanana.com/members/2027345', 'ad62d9'],
 			['PpavlikosS', 'pav', 'Charter', 'https://gamebanana.com/members/1809379', '56c7d6'],		
 			['PlasmaOJ15', 'plasmaoj15', 'Artist for Wall Assets (Check out their Beat Saber Mod!)', 'https://gamebanana.com/members/1771528', '0000FF'],	
 		];
